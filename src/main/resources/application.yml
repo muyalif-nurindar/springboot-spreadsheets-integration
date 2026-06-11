@@ -1,0 +1,7 @@
+application:
+  google-api:
+    spreadsheets:
+      identifier: [Google Sheets ID]
+      data-range: [Google Sheets Data Range]
+      credential-path: [Google API Credential Path]
+      token-path: [Google API Token Path]
